@@ -1,6 +1,6 @@
 #! /bin/bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
-###export###
+###export####
 export PATH
 export FRPS_VER=0.32.0
 export FRPS_INIT="https://raw.githubusercontent.com/MvsCode/frps-onekey/master/frps.init"
