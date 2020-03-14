@@ -5,7 +5,7 @@
 # distro. For CentOS/Redhat run: 'chkconfig --add frps'
 #=========================================================
 #   System Required:  CentOS/Debian/Ubuntu/Fedora (32bit/64bit)
-#   Description:  Manager for frps, Written by Clang
+#   Description:  Manager for frps, Written by Clang  
 #   Mender：MvsCode
 #=========================================================
 ### BEGIN INIT INFO
